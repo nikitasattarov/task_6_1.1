@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571746114 source:c:\users\user\prog\3 sem\1.1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+
+1571746116 source:c:\users\rog\desktop\Григорьев_Прога\1.1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+
